@@ -5,7 +5,7 @@ var where = 'server';  // where to install: 'client' or 'server'. For both, pass
 
 Package.describe({
   name: packageName,
-  version: '0.0.2',
+  version: '0.0.3',
   // Brief, one-line summary of the package.
   summary: 'Twitter API Client (REST & Streaming)',
   // URL to the Git repository containing the source code for this package.
@@ -15,7 +15,7 @@ Package.describe({
   documentation: 'README.md'
 });
 
-Npm.depends({twit: '2.2.1'});
+Npm.depends({twit: '2.2.2'});
 
 Package.onUse(function(api) {
   api.versionsFrom('1.2.1');
