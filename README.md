@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/schiller/meteor-twit.svg)](https://travis-ci.org/schiller/meteor-twit)
 
 # Twit
-Wrapper package for [Twit](https://github.com/ttezel/twit).
+Wrapper package for [Twit](https://github.com/ttezel/twit). (no longer maintained)
 
 Twitter API Client (**REST** and **Streaming**).
 
